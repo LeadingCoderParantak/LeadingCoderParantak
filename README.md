@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @LeadingCoderParantak
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning Ruby
+- 💞️ I’m looking to collaborate on Nothing
+- 📫 How to reach me Nothing
